@@ -1,0 +1,1 @@
+ F:\\Hackathon\\simple\\patient\\.dart_tool\\flutter_build\\81c78194098358404609201d328b1745\\native_assets.yaml: 
